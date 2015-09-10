@@ -1,8 +1,3 @@
-ajdflkajdf
-ad
-fa
-df
-ad
-fa
-f
-af
+public class sl {
+  
+}
